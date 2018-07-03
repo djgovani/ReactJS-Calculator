@@ -3,7 +3,7 @@
 ### Download or clone the project
 
 ```bash
-git clone ssh://git@192.168.1.5:2222/deepimp/ReactJS_Calculator.git
+git clone https://github.com/djgovani/ReactJS-Calculator.git
 ```
 
 * Install dependencies
